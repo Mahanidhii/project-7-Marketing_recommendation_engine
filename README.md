@@ -14,7 +14,7 @@ A Regression type prediction model using Random Forest Regressor algorithm. It u
 
 Docker:
 1. `docker build -t <file_name> .`
-2. `docker run <folder_name`
+2. `docker run <file_name`
 
 ### Steps:
 1. Building the required files: app.py: flask code,
